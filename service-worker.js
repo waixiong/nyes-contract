@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nyes-contract/precache-manifest.1a2d5ebfaf8d41e4f28a7235d09796c2.js"
+  "/nyes-contract/precache-manifest.b7359362e1c96338ccf61b809bc4d9d8.js"
 );
 
 workbox.clientsClaim();
